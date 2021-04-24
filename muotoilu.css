@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(185, 233, 138);
+}
+
+h1 {
+    color:rgb(18, 71, 218)
+}
+
+
+button {
+    background-color: #5239c4;
+    border: none;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-decoration: none;
+    padding: 10px 25px;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.kiisu {
+
+    margin:10px;
+    height: 600px;
+    width:500px;
+    
+}
+.kiisu img {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
